@@ -1,0 +1,1 @@
+echo "Mejora propuesta: Interfas de experiencia de usuario y el analisis de mejora." > aportacion-Yesenia.txt 
