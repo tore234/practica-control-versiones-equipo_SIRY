@@ -26,8 +26,12 @@ Agregamos un push origin y creamos un pull request:
 Ian 
 
 Creamos la rama a utilizar dentro del proyecto, ademas agregar una aportación con un archivo.txt:
+![image](https://github.com/user-attachments/assets/92ed3dd1-770d-49f0-8214-7242b652f406)
+
 
 Agregamos un push origin y creamos un pull request:
+![image](https://github.com/user-attachments/assets/30f6b9f9-c33f-4467-9d0c-5ec56e6b2953)
+
 
 
 Ricardo
