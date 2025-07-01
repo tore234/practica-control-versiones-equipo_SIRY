@@ -44,6 +44,7 @@ Creamos un segundo commit:
 Agregamos un push origin y creamos un pull request:
 ![image](https://github.com/user-attachments/assets/d4098df9-b856-4d9d-9a12-cd28ee33f163)
 
+Revisamos cada pull request:
 
 
 Yes 
