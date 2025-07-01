@@ -19,6 +19,9 @@ Salvador
 
 Agregamos un push origin y creamos un pull request:
 
+![image](https://github.com/user-attachments/assets/a9084058-e2c0-4149-9197-f8b0c7d29d7e)
+
+
 
 Ian 
 
