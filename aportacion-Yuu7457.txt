@@ -1,0 +1,2 @@
+echo "Mejora propuesta: Implementar un sistema de notificaciones en tiempo real para alertar a los usuarios sobre nuevas actividades." > aportacion-Yuu7457.txt
+
