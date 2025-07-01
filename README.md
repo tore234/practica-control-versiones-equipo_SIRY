@@ -13,7 +13,14 @@ Asignamos colaboradores:
 FASE 2# Creacion de amas y commit correspondiente
 Salvador 
 ![image](https://github.com/user-attachments/assets/1f8c2026-980f-40db-9944-9ef32e86fe27)
+
+Agregamos un push origin y creamos un pull request:
+
+
 Ian 
+Creamos la rama a utilizar dentro del proyecto, ademas agregar una aportación con un archivo.txt:
+
+Agregamos un push origin y creamos un pull request:
 
 
 Ricardo
@@ -28,10 +35,10 @@ Agregamos un push origin y creamos un pull request:
 
 
 
-
-
 Yes 
+Creamos la rama a utilizar dentro del proyecto, ademas agregar una aportación con un archivo.txt:
 
+Agregamos un push origin y creamos un pull request:
 
 
 
