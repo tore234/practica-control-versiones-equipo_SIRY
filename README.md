@@ -5,7 +5,7 @@ Integrantes del equipo:
 -Salvador
 -Yes
 -Ian
--Ricardo
+-Chava no ha querido jugar el Elden Ring y eso que se lo compre
 
 FASE 1#
 Asignamos colaboradores:
