@@ -3,8 +3,11 @@ Aqui se alojaran el examen de control de versiones,
 
 Integrantes del equipo:
 -Salvador
+
 -Yes
+
 -Ian
+
 -Ricardo
 
 FASE 1#
@@ -18,6 +21,7 @@ Agregamos un push origin y creamos un pull request:
 
 
 Ian 
+
 Creamos la rama a utilizar dentro del proyecto, ademas agregar una aportación con un archivo.txt:
 
 Agregamos un push origin y creamos un pull request:
@@ -36,16 +40,11 @@ Agregamos un push origin y creamos un pull request:
 
 
 Yes 
+
+
 Creamos la rama a utilizar dentro del proyecto, ademas agregar una aportación con un archivo.txt:
 
 Agregamos un push origin y creamos un pull request:
 
 
 
-FASE 3#
-
-FASE 4#
-
-FASE 3#
-
-FASE 4#
