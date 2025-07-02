@@ -52,6 +52,9 @@ Yes
 
 Creamos la rama a utilizar dentro del proyecto, ademas agregar una aportación con un archivo.txt:
 
+![image](https://github.com/user-attachments/assets/1ce94f7c-c4e0-4b0a-95e5-f898f45464a3)
+
+
 Agregamos un push origin y creamos un pull request:
 ![image](https://github.com/user-attachments/assets/4798a4f5-17e6-4e5e-af50-7127420717cd)
 
